@@ -1,15 +1,15 @@
 {
   "name": "alfred-vscode",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Alfred workflow that allows you to browse and open Visual Studio Code (Insiders) projects",
   "type": "module",
   "license": "MIT",
-  "repository": "kbshl/alfred-vscode",
-  "homepage": "https://github.com/kbshl/alfred-vscode#readme",
+  "repository": "carlba/alfred-vscode",
+  "homepage": "https://github.com/carlba/alfred-vscode#readme",
   "author": {
-    "name": "Konstantin Büschel",
-    "email": "konstantin.bueschel+npm@gmail.com",
-    "url": "https://github.com/kbshl"
+    "name": "Carl Bäckström",
+    "email": "genzorg@gmail.com",
+    "url": "https://github.com/carlba"
   },
   "keywords": [
     "alfred",

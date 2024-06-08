@@ -66,7 +66,7 @@
       </array>
     </dict>
     <key>createdby</key>
-    <string>Konstantin Büschel</string>
+    <string>Carl Bäckström</string>
     <key>description</key>
     <string>Alfred workflow that allows you to browse and open Visual Studio Code (Insiders) projects</string>
     <key>disabled</key>
@@ -382,8 +382,8 @@ For furher details see https://github.com/kbshl/alfred-vscode</string>
       <string>vscodeEdition</string>
     </array>
     <key>version</key>
-    <string>2.1.0</string>
+    <string>3.0.0</string>
     <key>webaddress</key>
-    <string>https://github.com/kbshl/alfred-vscode#readme</string>
+    <string>https://github.com/carlba/alfred-vscode#readme</string>
   </dict>
 </plist>
