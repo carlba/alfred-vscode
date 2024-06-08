@@ -36,7 +36,7 @@
   "scripts": {
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup",
-    "test": "npm run lint:js",
+    "test": "npm run lint",
     "cm": "npx git-cz",
     "release": "npx standard-version",
     "start": "node index.js",
@@ -44,7 +44,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "prepare": "husky"
   },
   "dependencies": {
     "alfy": "^2.0.0",
