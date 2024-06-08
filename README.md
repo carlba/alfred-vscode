@@ -6,7 +6,9 @@
 [![NPM total downloads](https://img.shields.io/npm/dt/alfred-vscode.svg)](https://www.npmjs.com/package/alfred-vscode)
 [![NPM license](https://img.shields.io/npm/l/alfred-vscode.svg)](https://www.npmjs.com/package/alfred-vscode)
 
-> [Alfred 3](https://www.alfredapp.com) workflow that allows you to browse and open [Visual Studio Code (Insiders)](https://code.visualstudio.com/) projects or simply open specified folders/files.
+> [Alfred 3](https://www.alfredapp.com) workflow that allows you to browse and open
+> [Visual Studio Code (Insiders)](https://code.visualstudio.com/) projects or simply open specified
+> folders/files.
 
 ![alfred-vscode in action](docs/screenshot.png)
 
@@ -15,8 +17,10 @@
 You need
 
 - [Node.js 8+](https://nodejs.org)
-- [Alfred 3](https://www.alfredapp.com) with the paid [Powerpack](https://www.alfredapp.com/powerpack/) upgrade
-- [Visual Studio Code Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Only if you like to have a project manager for VS Code.
+- [Alfred 3](https://www.alfredapp.com) with the paid
+  [Powerpack](https://www.alfredapp.com/powerpack/) upgrade
+- [Visual Studio Code Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) -
+  Only if you like to have a project manager for VS Code.
 - [Visual Studio Code Command Line](https://code.visualstudio.com/docs/setup/mac)
 
 ## Installation
@@ -44,8 +48,8 @@ specific project or group. The overall list shows 100 projects at max.
 
 Select a project and press <kbd>Enter</kbd> to open it in VS Code or Code Insiders.
 
-Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to open the project path in Terminal - You can set
-the terminal app in the Workflow variables view.
+Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to open the project path in Terminal - You can
+set the terminal app in the Workflow variables view.
 
 Hold <kbd>Shift</kbd> when pressing <kbd>Enter</kbd> to open the project path in Finder.
 
@@ -53,8 +57,11 @@ Hold <kbd>Shift</kbd> when pressing <kbd>Enter</kbd> to open the project path in
 
 Type `vs` followed by space and search for a specific folder or file to open in Visual Studio Code.
 
-Hold <kbd>Shift</kbd> when pressing <kbd>Enter</kbd> to open that folder or file in a new VS Code window.
+Hold <kbd>Shift</kbd> when pressing <kbd>Enter</kbd> to open that folder or file in a new VS Code
+window.
 
 ## Special Thanks
 
-Big Thanks goes to [Cloudstek](https://github.com/Cloudstek) for his [Alfred Atom Workflow](https://github.com/Cloudstek/alfred-atom) which I used as a base for this project.
+Big Thanks goes to [Cloudstek](https://github.com/Cloudstek) for his
+[Alfred Atom Workflow](https://github.com/Cloudstek/alfred-atom) which I used as a base for this
+project.
