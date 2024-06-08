@@ -1,7 +1,7 @@
-const alfy = require('alfy');
-const utils = require('./lib/utils');
+import alfy from 'alfy';
+import * as utils from './lib/utils.js';
 
-(async () => {
+const main = async () => {
   const file = utils.getProjectFilePath();
 
   const projects = await utils.fetch(file, {
@@ -32,4 +32,6 @@ const utils = require('./lib/utils');
   }
 
   alfy.output(matchedProjects);
-})();
+};
+
+main();
