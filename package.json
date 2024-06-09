@@ -1,6 +1,6 @@
 {
-  "name": "alfred-vscode-projects",
-  "version": "2.1.0",
+  "name": "alfred-vscode-project-manager",
+  "version": "3.0.0",
   "description": "Alfred workflow that allows you to browse and open Visual Studio Code (Insiders) projects",
   "type": "module",
   "license": "MIT",
